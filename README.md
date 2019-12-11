@@ -26,3 +26,12 @@ In order to run this locally:
 
 1. In terminal, execute npx http-server
 2. Navigate to the localhost that the terminal tells you to go to
+
+STYLING
+
+I found a free css template to start working off of and I started tweaking it as needed. I didn't need the Google maps api functionality and a lot of extra things so those were removed. 
+
+REFERENCES
+
+1. Stack overflow
+2. Node Documentation
