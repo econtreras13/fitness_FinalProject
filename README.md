@@ -1,5 +1,7 @@
 # fitness_FinalProject
 
+CPST-342 - Evelin Contreras
+
 Hello!
 
 This web app is for people who are into fitness to sign up and showcase their skills! 
@@ -10,11 +12,10 @@ Users can veiw the application and see what sorts of cool stuff people can do in
 Tech info:
 
 This app is built on the following:
-1. HTML
-2. ReactJS
-3. NodeJS
-4. Utilizes JSON data 
-5. AJAX
+1. HTML / CSS
+2. NodeJS
+3. Utilizes JSON data 
+4. AJAX
 
 For storing jsons, I used this online tool called myjson-
 
@@ -33,5 +34,6 @@ I found a free css template to start working off of and I started tweaking it as
 
 REFERENCES
 
-1. Stack overflow
-2. Node Documentation
+1. Stack overflow: needed help researching why I couldn't append to an element. I came to realize that my id was "#dancers" so I had to change it to "dancers". 
+2. Node Documentation: This was helpful for researching various ways to run my project locally. I ended up using npx http-server to run it and start from my index.html
+
