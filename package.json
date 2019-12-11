@@ -1,0 +1,24 @@
+{
+  "name": "fitness_FinalProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/econtreras13/fitness_FinalProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/econtreras13/fitness_FinalProject/issues"
+  },
+  "homepage": "https://github.com/econtreras13/fitness_FinalProject#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
